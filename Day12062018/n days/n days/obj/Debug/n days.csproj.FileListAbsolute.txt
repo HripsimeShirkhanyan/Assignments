@@ -1,0 +1,7 @@
+c:\users\hripsime shirkhanyan\source\repos\n days\n days\bin\Debug\n days.exe.config
+c:\users\hripsime shirkhanyan\source\repos\n days\n days\bin\Debug\n days.exe
+c:\users\hripsime shirkhanyan\source\repos\n days\n days\bin\Debug\n days.pdb
+c:\users\hripsime shirkhanyan\source\repos\n days\n days\obj\Debug\n days.csproj.CoreCompileInputs.cache
+c:\users\hripsime shirkhanyan\source\repos\n days\n days\obj\Debug\n days.exe
+c:\users\hripsime shirkhanyan\source\repos\n days\n days\obj\Debug\n days.pdb
+C:\Users\Hripsime Shirkhanyan\source\repos\n days\n days\obj\Debug\n days.csprojAssemblyReference.cache

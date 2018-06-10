@@ -1,0 +1,7 @@
+C:\Users\Hripsime Shirkhanyan\source\repos\Fractions\Fractions\bin\Debug\Fractions.exe.config
+C:\Users\Hripsime Shirkhanyan\source\repos\Fractions\Fractions\bin\Debug\Fractions.exe
+C:\Users\Hripsime Shirkhanyan\source\repos\Fractions\Fractions\bin\Debug\Fractions.pdb
+C:\Users\Hripsime Shirkhanyan\source\repos\Fractions\Fractions\obj\Debug\Fractions.csprojAssemblyReference.cache
+C:\Users\Hripsime Shirkhanyan\source\repos\Fractions\Fractions\obj\Debug\Fractions.csproj.CoreCompileInputs.cache
+C:\Users\Hripsime Shirkhanyan\source\repos\Fractions\Fractions\obj\Debug\Fractions.exe
+C:\Users\Hripsime Shirkhanyan\source\repos\Fractions\Fractions\obj\Debug\Fractions.pdb

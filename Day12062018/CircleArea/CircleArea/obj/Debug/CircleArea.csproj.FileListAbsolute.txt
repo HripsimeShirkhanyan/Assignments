@@ -1,0 +1,7 @@
+C:\Users\Hripsime Shirkhanyan\source\repos\CircleArea\CircleArea\bin\Debug\CircleArea.exe.config
+C:\Users\Hripsime Shirkhanyan\source\repos\CircleArea\CircleArea\bin\Debug\CircleArea.exe
+C:\Users\Hripsime Shirkhanyan\source\repos\CircleArea\CircleArea\bin\Debug\CircleArea.pdb
+C:\Users\Hripsime Shirkhanyan\source\repos\CircleArea\CircleArea\obj\Debug\CircleArea.csprojAssemblyReference.cache
+C:\Users\Hripsime Shirkhanyan\source\repos\CircleArea\CircleArea\obj\Debug\CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\Hripsime Shirkhanyan\source\repos\CircleArea\CircleArea\obj\Debug\CircleArea.exe
+C:\Users\Hripsime Shirkhanyan\source\repos\CircleArea\CircleArea\obj\Debug\CircleArea.pdb

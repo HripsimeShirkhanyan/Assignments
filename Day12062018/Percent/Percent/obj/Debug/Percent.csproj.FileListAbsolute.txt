@@ -1,0 +1,7 @@
+c:\users\hripsime shirkhanyan\source\repos\Percent\Percent\bin\Debug\Percent.exe.config
+c:\users\hripsime shirkhanyan\source\repos\Percent\Percent\bin\Debug\Percent.exe
+c:\users\hripsime shirkhanyan\source\repos\Percent\Percent\bin\Debug\Percent.pdb
+c:\users\hripsime shirkhanyan\source\repos\Percent\Percent\obj\Debug\Percent.csproj.CoreCompileInputs.cache
+c:\users\hripsime shirkhanyan\source\repos\Percent\Percent\obj\Debug\Percent.exe
+c:\users\hripsime shirkhanyan\source\repos\Percent\Percent\obj\Debug\Percent.pdb
+C:\Users\Hripsime Shirkhanyan\source\repos\Percent\Percent\obj\Debug\Percent.csprojAssemblyReference.cache
