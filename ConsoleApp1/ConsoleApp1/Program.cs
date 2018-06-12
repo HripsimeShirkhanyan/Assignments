@@ -86,32 +86,7 @@ namespace ConsoleApp1
             //Console.WriteLine($"First number is: {first_num}, Second number is: {second_num}, Third number is: {third_num}");
 
 
-            //Console.WriteLine("Prices in DUD supermarket");
-            //Console.WriteLine("Please enter the bread price");
-            //decimal bread = decimal.Parse(Console.ReadLine());
-            //Console.WriteLine("Please enter the milk price");
-            //decimal milk = decimal.Parse(Console.ReadLine());
-            //Console.WriteLine("Please enter the coffee price");
-            //decimal coffee = decimal.Parse(Console.ReadLine());
-            //Console.WriteLine("Please enter the curdledMilk price");
-            //decimal curdledMilk = decimal.Parse(Console.ReadLine());
-            //Console.WriteLine("Please enter the cheese price");
-            //decimal cheese = decimal.Parse(Console.ReadLine());
-
-            //Console.WriteLine("Prices in Aparancity supermarket");
-            //Console.WriteLine("Please enter the bread price");
-            //decimal bread1 = decimal.Parse(Console.ReadLine());
-            //Console.WriteLine("Please enter the milk price");
-            //decimal milk1 = decimal.Parse(Console.ReadLine());
-            //Console.WriteLine("Please enter the coffee price");
-            //decimal coffee1 = decimal.Parse(Console.ReadLine());
-            //Console.WriteLine("Please enter the curdledMilk price");
-            //decimal curdledMilk1 = decimal.Parse(Console.ReadLine());
-            //Console.WriteLine("Please enter the cheese price");
-            //decimal cheese1 = decimal.Parse(Console.ReadLine());
-
-            //string result = (bread1 > bread && milk1 > milk && coffee1 > coffee && curdledMilk1 > curdledMilk && cheese1 > cheese) ? "Dud supermarket" : "Aparancity supermarket";
-            //Console.WriteLine($"One should buy from a supermarket, where the prices are minimum, so you should do shopping in {result}");
+            
         }
     }
 }
