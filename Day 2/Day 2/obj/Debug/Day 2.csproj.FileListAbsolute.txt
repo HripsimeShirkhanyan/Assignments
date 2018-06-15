@@ -1,0 +1,14 @@
+C:\Users\Hripsime Shirkhanyan\Desktop\Hripsime_C#\Day 2\Day 2\bin\Debug\Day 2.exe.config
+C:\Users\Hripsime Shirkhanyan\Desktop\Hripsime_C#\Day 2\Day 2\bin\Debug\Day 2.exe
+C:\Users\Hripsime Shirkhanyan\Desktop\Hripsime_C#\Day 2\Day 2\bin\Debug\Day 2.pdb
+C:\Users\Hripsime Shirkhanyan\Desktop\Hripsime_C#\Day 2\Day 2\obj\Debug\Day 2.csprojAssemblyReference.cache
+C:\Users\Hripsime Shirkhanyan\Desktop\Hripsime_C#\Day 2\Day 2\obj\Debug\Day 2.csproj.CoreCompileInputs.cache
+C:\Users\Hripsime Shirkhanyan\Desktop\Hripsime_C#\Day 2\Day 2\obj\Debug\Day 2.exe
+C:\Users\Hripsime Shirkhanyan\Desktop\Hripsime_C#\Day 2\Day 2\obj\Debug\Day 2.pdb
+C:\Users\Hripsime Shirkhanyan\Desktop\Assignments\Day 2\Day 2\bin\Debug\Day 2.exe.config
+C:\Users\Hripsime Shirkhanyan\Desktop\Assignments\Day 2\Day 2\bin\Debug\Day 2.exe
+C:\Users\Hripsime Shirkhanyan\Desktop\Assignments\Day 2\Day 2\bin\Debug\Day 2.pdb
+C:\Users\Hripsime Shirkhanyan\Desktop\Assignments\Day 2\Day 2\obj\Debug\Day 2.csprojAssemblyReference.cache
+C:\Users\Hripsime Shirkhanyan\Desktop\Assignments\Day 2\Day 2\obj\Debug\Day 2.csproj.CoreCompileInputs.cache
+C:\Users\Hripsime Shirkhanyan\Desktop\Assignments\Day 2\Day 2\obj\Debug\Day 2.exe
+C:\Users\Hripsime Shirkhanyan\Desktop\Assignments\Day 2\Day 2\obj\Debug\Day 2.pdb
