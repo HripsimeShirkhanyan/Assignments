@@ -1,0 +1,14 @@
+C:\Users\Hripsime Shirkhanyan\source\repos\Last lesson\Last lesson\bin\Debug\Last lesson.exe.config
+C:\Users\Hripsime Shirkhanyan\source\repos\Last lesson\Last lesson\bin\Debug\Last lesson.exe
+C:\Users\Hripsime Shirkhanyan\source\repos\Last lesson\Last lesson\bin\Debug\Last lesson.pdb
+C:\Users\Hripsime Shirkhanyan\source\repos\Last lesson\Last lesson\obj\Debug\Last lesson.csprojAssemblyReference.cache
+C:\Users\Hripsime Shirkhanyan\source\repos\Last lesson\Last lesson\obj\Debug\Last lesson.csproj.CoreCompileInputs.cache
+C:\Users\Hripsime Shirkhanyan\source\repos\Last lesson\Last lesson\obj\Debug\Last lesson.exe
+C:\Users\Hripsime Shirkhanyan\source\repos\Last lesson\Last lesson\obj\Debug\Last lesson.pdb
+C:\Users\Hripsime Shirkhanyan\Desktop\Assignments\Last lesson\Last lesson\bin\Debug\Last lesson.exe.config
+C:\Users\Hripsime Shirkhanyan\Desktop\Assignments\Last lesson\Last lesson\bin\Debug\Last lesson.exe
+C:\Users\Hripsime Shirkhanyan\Desktop\Assignments\Last lesson\Last lesson\bin\Debug\Last lesson.pdb
+C:\Users\Hripsime Shirkhanyan\Desktop\Assignments\Last lesson\Last lesson\obj\Debug\Last lesson.csprojAssemblyReference.cache
+C:\Users\Hripsime Shirkhanyan\Desktop\Assignments\Last lesson\Last lesson\obj\Debug\Last lesson.csproj.CoreCompileInputs.cache
+C:\Users\Hripsime Shirkhanyan\Desktop\Assignments\Last lesson\Last lesson\obj\Debug\Last lesson.exe
+C:\Users\Hripsime Shirkhanyan\Desktop\Assignments\Last lesson\Last lesson\obj\Debug\Last lesson.pdb
