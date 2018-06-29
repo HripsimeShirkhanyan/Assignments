@@ -1,0 +1,7 @@
+C:\Users\Hripsime Shirkhanyan\source\repos\simple\simple\bin\Debug\simple.exe.config
+C:\Users\Hripsime Shirkhanyan\source\repos\simple\simple\bin\Debug\simple.exe
+C:\Users\Hripsime Shirkhanyan\source\repos\simple\simple\bin\Debug\simple.pdb
+C:\Users\Hripsime Shirkhanyan\source\repos\simple\simple\obj\Debug\simple.csprojAssemblyReference.cache
+C:\Users\Hripsime Shirkhanyan\source\repos\simple\simple\obj\Debug\simple.csproj.CoreCompileInputs.cache
+C:\Users\Hripsime Shirkhanyan\source\repos\simple\simple\obj\Debug\simple.exe
+C:\Users\Hripsime Shirkhanyan\source\repos\simple\simple\obj\Debug\simple.pdb
